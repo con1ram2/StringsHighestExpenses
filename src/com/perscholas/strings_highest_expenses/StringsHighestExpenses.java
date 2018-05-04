@@ -6,7 +6,7 @@ public class StringsHighestExpenses {
 
 	public static void main(String[] args) {
 		String bill = "Bill-25-39-101";
-		String tom = "Tom-44-95-71";
+		String tom = "Tom-44-25-71";
 		String maria = "Maria-56-23-66";
 		String claire = "Claire-99-21-80";
 		String maxName = "";
